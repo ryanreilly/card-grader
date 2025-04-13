@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Container, AppBar, Toolbar, Typography, Card, CardContent, Button, CircularProgress, Grid } from '@mui/material';
+import { Container, AppBar, Toolbar, Typography, Card, CardContent, Button, CircularProgress } from '@mui/material';
 import UploadForm from './UploadForm';
 import ScoreDisplay from './ScoreDisplay';
 
